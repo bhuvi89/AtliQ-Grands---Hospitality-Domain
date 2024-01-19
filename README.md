@@ -4,6 +4,8 @@
 
 AtliQ Grands, a prominent player in the hospitality industry, faced a decline in market share and revenue due to competitor strategies and suboptimal management decisions. To counter this, the Managing Director initiated a strategic move—incorporating "Business and Data Intelligence" to regain market dominance. The lack of an in-house data analytics team led to the decision to enlist a 3rd party service provider to extract insights from historical data.
 
+My Project Dashboard Link:  http://tinyurl.com/52mtax4k
+
 # Key Metrics
 
 **Revenue** -- Total revenue realized.
@@ -49,6 +51,5 @@ AtliQ Exotica emerges as the star performer, excelling in revenue generation, ra
 
 **Statistical Analysis:** Applied statistical methods to uncover patterns and trends in the data, informing strategic decisions.
 
-# Live Dashboard Link:  http://tinyurl.com/52mtax4k
 
 
