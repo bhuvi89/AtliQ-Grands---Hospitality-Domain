@@ -1,7 +1,11 @@
 # AtliQ Grands Business Intelligence Project
-#**Problem Statement**
+
+#**Problem Statement**#
+
 AtliQ Grands, a prominent player in the hospitality industry, faced a decline in market share and revenue due to competitor strategies and suboptimal management decisions. To counter this, the Managing Director initiated a strategic move—incorporating "Business and Data Intelligence" to regain market dominance. The lack of an in-house data analytics team led to the decision to enlist a 3rd party service provider to extract insights from historical data.
+
 #**Key Metrics**
+
 1.**Revenue**--- Total revenue realized.
 2.**Occupancy%**--Ratio of total successful bookings to total capacity.
 3.**Average Rating**-Average ratings given by the customers.
