@@ -49,4 +49,6 @@ AtliQ Exotica emerges as the star performer, excelling in revenue generation, ra
 
 **Statistical Analysis:** Applied statistical methods to uncover patterns and trends in the data, informing strategic decisions.
 
+# Live Dashboard Link:  http://tinyurl.com/52mtax4k
+
 
